@@ -1,3 +1,5 @@
+# Copyright (c) 2022 Konstantin Reinhart. All rights reserved.
+#
 # Name: Premiere subtitle/captions TXT2SRT converter
 # Version: 1.0
 
