@@ -1,2 +1,8 @@
-# premiere-txt2srt-converter
-Converting an Adobe Premiere txt-export of captions/subtitles to srt-format for re-importing
+Adobe Premiere doesn't support to re-import its TXT export of subtitles/captions.
+This script converts a TXT subtitle export to a readable SRT format
+
+## Run script
+
+´´´ 
+python premiere-txt2srt-converter.py INPUT
+´´´
