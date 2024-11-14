@@ -3,6 +3,4 @@ This script converts a TXT subtitle export to a readable SRT format
 
 ## Run script
 
-´´´ 
-python premiere-txt2srt-converter.py INPUT
-´´´
+`python premiere-txt2srt-converter.py INPUT`
